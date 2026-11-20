@@ -10,7 +10,7 @@
 
 window.TIENDA_CONFIG = {
   // Tu ID de medición de GA4. Ejemplo: "G-4B7Q2KZ9TR"
-  GA_MEASUREMENT_ID: "G-XXXXXXXXXX",
+  GA_MEASUREMENT_ID: "G-LD0BPM5FCH",
 
   // true = los eventos aparecen también en DebugView de GA4.
   // Déjalo en true durante el laboratorio.
